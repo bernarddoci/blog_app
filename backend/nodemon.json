@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_DB": "mongodb+srv://bernard:MongoDb219693@ebookcluster-is2yz.mongodb.net/gql-messages",
+        "TOKEN_KEY": "somesupersecretsecret"
+    }
+}
